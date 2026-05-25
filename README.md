@@ -35,7 +35,7 @@ MIT
 
 | Роль | ФИО | Обязанности | GitHub |
 |------|-----|-------------|--------|
-| Team Lead | Житников Елисей | Руководство | [@??](https://github.com/??) |
+| Team Lead | Житников Елисей | Руководство | [@skyred166](https://github.com/skyred166) |
 | Backend | Ротарь Никита | БД, PHP-логика, API | [@NellorYT](https://github.com/NellorYT) |
 | Frontend | Ротарь Никита | HTML/CSS, Bootstrap | [@NellorYT](https://github.com/NellorYT) |
 | Fullstack | Ротарь Никита | QR-сканер, уведомления | [@NellorYT](https://github.com/NellorYT) |
