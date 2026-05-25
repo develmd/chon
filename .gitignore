@@ -1,0 +1,6 @@
+database.sqlite
+qrcodes/*.png
+notifications.log
+.idea/
+.vscode/
+*.log
