@@ -13,4 +13,3 @@
 - Frontend: navbar.php, все стили и адаптив
 - Fullstack: scan.php, teacher_panel.php, notifications.php
 - QA: attendance.php, reports.php, тестирование
-
