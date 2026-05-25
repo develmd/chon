@@ -6,7 +6,7 @@
 | Backend | Ротарь Никита | БД, PHP-логика, API | @NellorYT |
 | Frontend | Ротарь Никита | HTML/CSS, Bootstrap | @NellorYT |
 | Fullstack | Ротарь Никита | QR-сканер, уведомления | @NellorYT |
-| QA / Документалист | Маслов Павел | Тестирование, отчёты | @kozlova |
+| QA / Документалист | Маслов Павел | Тестирование, отчёты | @maslovpalmih |
 
 ## Распределение задач
 - Backend: students.php, schedule.php, generate_qr.php
