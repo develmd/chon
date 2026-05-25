@@ -2,10 +2,10 @@
 
 | Роль | ФИО | Обязанности | GitHub |
 |------|-----|-------------|--------|
-| Team Lead / Backend | Иванов Иван | БД, PHP-логика, API | @ivanov |
-| Frontend | Петрова Анна | HTML/CSS, Bootstrap | @petrova |
-| Fullstack | Сидоров Дмитрий | QR-сканер, уведомления | @sidorov |
-| QA / Документалист | Козлова Екатерина | Тестирование, отчёты | @kozlova |
+| Team Lead / Backend | Ротарь Никита | БД, PHP-логика, API | @NellorYT |
+| Frontend | Ротарь Никита | HTML/CSS, Bootstrap | @petrNellorYTova |
+| Fullstack | Ротарь Никита | QR-сканер, уведомления | @NellorYT |
+| QA / Документалист | Маслов Павел | Тестирование, отчёты | @kozlova |
 
 ## Распределение задач
 - Backend: students.php, schedule.php, generate_qr.php
