@@ -28,6 +28,10 @@
 - **Студенты:** 6 человек (ИП-10, ИП-12, и т.д)
 - **Преподаватели:** ivanov/ivanov123, petrov/petrov123
 
+## Лицензия
+MIT
+
+
 # Команда проекта CHECKON
 
 | Роль | ФИО | Обязанности | GitHub |
@@ -43,12 +47,3 @@
 - Frontend: navbar.php, все стили и адаптив
 - Fullstack: scan.php, teacher_panel.php, notifications.php
 - QA: attendance.php, reports.php, тестирование
-
-## Команда
-- Backend: [Никита Ротарь]
-- Frontend: [Никита Ротарь]
-- Fullstack: [Никита Ротарь]
-- Тестирование: [Елисей Житников, Павел Маслов]
-
-## Лицензия
-MIT
