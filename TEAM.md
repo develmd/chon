@@ -2,7 +2,7 @@
 
 | Роль | ФИО | Обязанности | GitHub |
 |------|-----|-------------|--------|
-| Team Lead / Backend | Ротарь Никита | БД, PHP-логика, API | @NellorYT |
+| Team Lead / Backend | Житников Елисей | БД, PHP-логика, API | @NellorYT |
 | Frontend | Ротарь Никита | HTML/CSS, Bootstrap | @petrNellorYTova |
 | Fullstack | Ротарь Никита | QR-сканер, уведомления | @NellorYT |
 | QA / Документалист | Маслов Павел | Тестирование, отчёты | @kozlova |
